@@ -2,10 +2,7 @@
 
 This is a simple Go application that performs web scraping on a given website URL and returns the website details as JSON.
 
-<div align="center">
-  ![Result screenshot]([https://example.com/gambar.jpg](https://i.ibb.co/6tKdryX/Screenshot-2023-06-19-102026.png))
-</div>
-
+![API Image](https://i.ibb.co/6tKdryX/Screenshot-2023-06-19-102026.png)
 
 ## Prerequisites
 
