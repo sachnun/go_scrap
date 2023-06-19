@@ -2,6 +2,11 @@
 
 This is a simple Go application that performs web scraping on a given website URL and returns the website details as JSON.
 
+<div align="center">
+  ![Result screenshot]([https://example.com/gambar.jpg](https://i.ibb.co/6tKdryX/Screenshot-2023-06-19-102026.png))
+</div>
+
+
 ## Prerequisites
 
 To run this application, you need to have Go installed on your system. You can download and install Go from the official Go website: https://golang.org/
